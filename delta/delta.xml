@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<!-- THIS IS AN EXAMPLE DELTA XML FILE-->
+  <RomName>nebula_delta</RomName>
+  <VersionName>14.1</VersionName>
+  <VersionNumber type="integer">20171223</VersionNumber>
+  <DirectUrl></DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/nebula-ota/files/delta</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer"></FileSize>
+  <Developer>Deepflex</Developer>
+  <Changelog>
+  </Changelog>
+</ROM>

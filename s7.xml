@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>nebula_S7</RomName>
+  <VersionName>NEBULA-N-MTK-M-v14.1-20171223-S7-OFFICIAL</VersionName>
+  <VersionNumber type="integer">20171223</VersionNumber>
+  <DirectUrl>https://sourceforge.net/projects/nebula-ota/files/s7/NEBULA-N-MTK-M-v14.1-20171223-S7-OFFICIAL.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/nebula-ota/files/s7</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer"></FileSize>
+  <Developer>Deepflex</Developer>
+  <Changelog>
+* official support for Elephone S7
+  </Changelog>
+</ROM>
